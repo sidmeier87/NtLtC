@@ -9,3 +9,4 @@ Please add your GitHub name in following format
 - [@sdhaowen](https://github.com/sdhaowen)
 - [@edumaker](https://github.com/edumaker)
 - [@cccczl](https://github.com/cccczl)
+- [@sidmeier87](https://github.com/sidmeier87)
